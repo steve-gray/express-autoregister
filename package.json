@@ -1,0 +1,36 @@
+{
+  "name": "express-autoregister",
+  "version": "0.0.1",
+  "description": "Automatic registration by-convention for Express routes.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steve-gray/express-autoregister.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "registration",
+    "helper",
+    "utility"
+  ],
+  "author": "Steve Gray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steve-gray/express-autoregister/issues"
+  },
+  "homepage": "https://github.com/steve-gray/express-autoregister#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "left-pad": "^1.0.1"
+  },
+  "peerDependencies": {
+    "express": "^4.0.0"
+  }
+}

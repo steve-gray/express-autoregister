@@ -1,6 +1,6 @@
 {
   "name": "express-autoregister",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatic registration by-convention for Express routes.",
   "main": "index.js",
   "engines": {
